@@ -37,14 +37,15 @@
 ### 🔥 &nbsp; My Stats :
 
 <a href="https://github.com/dev-aashutosh">
-  <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aashutosh&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
 </a> 
 <a href="https://github.com/dev-aashutosh">
-  <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aashutosh&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
 </a> 
 
 
-### Show some ❤️ by starring some of the repositories!
+
+####  Thanks for stopping by my GitHub profile. Dive into the repositories to discover my coding journey. Your feedback and contributions are highly appreciated. Let's innovate and create impactful solutions together! 💡✨"
 
 
 
