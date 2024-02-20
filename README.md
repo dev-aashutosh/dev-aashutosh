@@ -9,7 +9,7 @@
 </a>
 
 - 🔭 I’m currently working on **Web designing and development**
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **Javascript**
 - 💬 Ask me about **Webdev**
 - 📫 How to reach me **dev.ashutosh@gmail.com**
 
@@ -34,6 +34,7 @@
 <a href="https://github.com/dev-aashutosh">
   <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
 </a> 
+### 🔥 &nbsp; My Contributions :
 <a href="https://github.com/dev-aashutosh">
   <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
 </a> 
