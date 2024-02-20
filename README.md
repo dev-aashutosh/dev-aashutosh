@@ -29,15 +29,11 @@
 
 
 
-### 🔥 &nbsp; My Stats :
+### 📚 Language Preferences
+![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dev-aashutosh&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
 
-<a href="https://github.com/dev-aashutosh">
-  <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
-</a> 
-### 🔥 &nbsp; My Contributions :
-<a href="https://github.com/dev-aashutosh">
-  <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aashutosh&layout=compact&langs_count=8&theme=midnight-purple" />
-</a> 
+### 🔥 Streak
+![Jagriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-aashutosh&theme=vision-friendly-dark)
 
 
 
